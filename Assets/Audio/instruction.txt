@@ -1,0 +1,34 @@
+Beginner Level
+Jumping_Jack
+Instruction: "Start with feet together, jump while spreading legs shoulder-width apart, and raise arms overhead."
+Squats
+Instruction: "Stand with feet shoulder-width apart. Bend your knees, push hips back, then stand back up."
+Plank (20 seconds)
+Instruction: "Hold a plank position on forearms and toes, keeping a straight line from head to toe."
+Pushup
+Instruction: "Place hands shoulder-width apart, lower chest to the ground, then push back up."
+
+Intermediate Level
+Bicycle_Crunches
+Instruction: "Lie down, alternate bringing opposite elbow to knee in a pedaling motion."
+Pike_Walk
+Instruction: "From standing, bend forward, walk hands out to a plank, then back to standing."
+Circle Crunch
+Instruction: "Lie on your back, lift your shoulders and rotate in small circles."
+Cross Jump
+Instruction: "Jump, crossing legs in the air, and return to start position."
+Front_Raise
+Instruction: "Raise arms straight in front to shoulder height, then lower."
+
+Advanced Level
+Burpee
+Instruction: "From standing, squat down, jump feet back to plank, do a push-up, jump feet forward, and jump up."
+Jump Push-Up
+Instruction: "Start in push-up position, push up forcefully so hands leave the ground."
+Cross Jump Rotation
+Instruction: "Jump while rotating to face the opposite direction in mid-air."
+Sit-Up
+Instruction: "Lie with knees bent, sit up until your chest meets your knees, then lower."
+Pistol Squat
+Instruction: "Stand on one leg, extend the other leg forward, squat down, and rise."
+
